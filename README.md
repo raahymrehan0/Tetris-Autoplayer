@@ -77,4 +77,4 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 ## Acknowledgments
 
-Inspired by the classic Tetris game mechanics.
+Inspired by the classic Tetris game mechanics and based on code from UCL's Design and Professional Skills Module.
